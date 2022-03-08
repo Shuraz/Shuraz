@@ -9,6 +9,8 @@
 -  Live Demos 3: https://github.com/Shuraz/NextJS-SydneyFoodies
 -  Live Demos 4: https://github.com/Shuraz/Real-World-Problem
 
+- Out of the Box: Are you are intrested in augmented reality (AR)? :https://onlinelibrary.wiley.com/doi/10.1002/rcs.1958
+
 
 - 📫 How to reach me ..  Email: surajpok.au@gmail.com
 
