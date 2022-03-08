@@ -4,15 +4,16 @@
 - 🌱 I like to go hiking, content writing and it’s been fun to use my experiences and skills in blog writing and making videos. I am open to feedback, learn new stuff and try it, and keeping myself busy.
 -  I work well both independently and as part of a team. If you want to know more? I'd love to talk to you.
  
--  Live Demo 1  Portfolio (Private Repo Github) : https://www.maatocollection.com/about
--  Live Demo 2 Side Project Live (Private Repo Bitbucket): https://www.fetebird.com
--  Live Demos 3: https://github.com/Shuraz/NextJS-SydneyFoodies
--  Live Demos 4: https://github.com/Shuraz/Real-World-Problem
+-  📫  Live Demo 1:  Portfolio (Private Repo Github) ⇨  https://www.maatocollection.com/about
+-  📫  Live Demo 2:  Side Project Live (Private Repo Bitbucket) ⇨  https://www.fetebird.com
+-  📫  Live Demos 3 ⇨  https://github.com/Shuraz/NextJS-SydneyFoodies
+-  📫  Live Demos 4 ⇨  https://github.com/Shuraz/Real-World-Problem
 
-- Out of the Box: Are you are intrested in augmented reality (AR)? :https://onlinelibrary.wiley.com/doi/10.1002/rcs.1958
+- Out of the Box: Interested in augmented reality (AR)? Here is the link for my Journal.
+- ⇨ https://onlinelibrary.wiley.com/doi/10.1002/rcs.1958
 
 
-- 📫 How to reach me ..  Email: surajpok.au@gmail.com
+- 📨 How to reach me ..  Email: surajpok.au@gmail.com
 
 <!---
 Shuraz/Shuraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
