@@ -11,12 +11,12 @@
        USED:  React Create React Single Page application, React router, Tailwindcss, Formspree, Netlify, Messenger Chatbot  and others.
        
 -  📫  Live Demos 4 ⇨  https://realworldproblem.netlify.app
-       https://github.com/Shuraz/Real-World-Problem
        Used Axios to integrate API at front end, with responsive design.
+       Github Link  https://github.com/Shuraz/Real-World-Problem
        
 -  📫  Live Demos 3 ⇨  https://next-js-sydney-foodies.vercel.app
-       https://github.com/Shuraz/NextJS-SydneyFoodies
        Implemented: Used Next.js and mongodb
+       Github Link https://github.com/Shuraz/NextJS-SydneyFoodies
 
 - Out of the Box: Interested in augmented reality (AR)? Here is the link for my Journal.
 - ⇨ https://onlinelibrary.wiley.com/doi/10.1002/rcs.1958
