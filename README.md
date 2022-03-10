@@ -5,9 +5,11 @@
 -  I work well both independently and as part of a team. If you want to know more? I'd love to talk to you.
  
 -  📫  Live Demo 1:  Portfolio (Private Repo Github) ⇨  https://www.maatocollection.com/about
-       USED:  Gatsby and its plugins, Contentful, Graphql, FrontEnd Web Tech, ReactJS, Helmet, Gits, Netlify, formspree
+       USED:  Gatsby and its plugins, Headless CMS, Graphql, FrontEnd Web Tech, ReactJS, Helmet, Gits, Netlify, formspree
 -  📫  Live Demo 2:  Side Project Live (Private Repo Bitbucket) ⇨  https://www.fetebird.com
+       USED:  React, Create React Single Page application, React router, Tailwindcss, Formspree, Netlify, Messenger Chatbot, 
 -  📫  Live Demos 3 ⇨  https://github.com/Shuraz/NextJS-SydneyFoodies
+       
 -  📫  Live Demos 4 ⇨  https://github.com/Shuraz/Real-World-Problem
 
 - Out of the Box: Interested in augmented reality (AR)? Here is the link for my Journal.
