@@ -10,10 +10,12 @@
 -  📫  Live Demo 2:  Side Project Live (Private Repo Bitbucket) ⇨  https://www.fetebird.com
        USED:  React Create React Single Page application, React router, Tailwindcss, Formspree, Netlify, Messenger Chatbot  and others.
        
--  📫  Live Demos 4 ⇨  https://github.com/Shuraz/Real-World-Problem
+-  📫  Live Demos 4 ⇨  https://realworldproblem.netlify.app
+       https://github.com/Shuraz/Real-World-Problem
        Used Axios to integrate API at front end, with responsive design.
        
--  📫  Live Demos 3 ⇨  https://github.com/Shuraz/NextJS-SydneyFoodies
+-  📫  Live Demos 3 ⇨  https://next-js-sydney-foodies.vercel.app
+       https://github.com/Shuraz/NextJS-SydneyFoodies
        Implemented: Used Next.js and mongodb
 
 - Out of the Box: Interested in augmented reality (AR)? Here is the link for my Journal.
