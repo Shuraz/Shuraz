@@ -11,7 +11,7 @@
        USED:  React Create React Single Page application, React router, Tailwindcss, Formspree, Netlify, Messenger Chatbot  and others.
               
 -  📫  Live Demos 3 ⇨  https://my-weather-pwa-react.netlify.app
-       USED Axios to integrate Weathe API at front end. Development and Production with PWA.
+       USED Axios to integrate Weather API. Also Development and Production with PWA.
        [ https://github.com/Shuraz/My_Weather_PWA ]
        
 -  📫  Live Demos 4 ⇨  https://realworldproblem.netlify.app
