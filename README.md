@@ -10,12 +10,12 @@
 -  📫  Live Demo 2:  Side Project Live (Private Repo Bitbucket) ⇨  https://www.fetebird.com
        USED:  React Create React Single Page application, React router, Tailwindcss, Formspree, Netlify, Messenger Chatbot  and others.
               
--  📫  Live Demos 3 ⇨  https://my-weather-pwa-react.netlify.app
-       USED Axios to integrate Weather API. Also Development and Production with PWA.
+-  📫  Live Demos 3 ⇨  https://reactjs-pwa-app.netlify.app
+       USED: Axios to integrate Weather API. Also Development and Production with PWA.
        [ https://github.com/Shuraz/My_Weather_PWA ]
        
 -  📫  Live Demos 4 ⇨  https://realworldproblem.netlify.app
-       USED Axios to integrate API at front end, with responsive design.
+       USED: Axios to integrate API at front end, with responsive design.
        [ Source Code Github Link  https://github.com/Shuraz/Real-World-Problem ]
        
 -  📫  Live Demos 5 ⇨  https://next-js-sydney-foodies.vercel.app
